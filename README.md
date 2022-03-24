@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ensar
 - 👀 I’m interested in Machine learning, Coding and modeling.
 - 🌱 I’m currently working as Game developper&Game Artist
-- 📫 You can contact with me by mey.1997@hotmail.com
+- 📫 You can contact with me on mey.1997@hotmail.com
